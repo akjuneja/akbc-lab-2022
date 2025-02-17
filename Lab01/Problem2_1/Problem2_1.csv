@@ -1,0 +1,101 @@
+Title,POS Type,POS,Frequency
+Bill Gates,verb,is,25
+Bill Gates,verb,was,23
+Bill Gates,verb,Gates,22
+Bill Gates,verb,had,14
+Bill Gates,verb,said,12
+Barack Obama,adjective,first,21
+Barack Obama,verb,was,19
+Barack Obama,adjective,Democratic,15
+Barack Obama,adjective,presidential,13
+Barack Obama,verb,be,13
+Angela Merkel,adjective,German,39
+Angela Merkel,verb,was,20
+Angela Merkel,verb,had,18
+Angela Merkel,adjective,first,16
+Angela Merkel,verb,been,15
+Ed Sheeran,adjective,single,21
+Ed Sheeran,verb,is,10
+Ed Sheeran,verb,released,10
+Ed Sheeran,adjective,first,9
+Ed Sheeran,verb,was,9
+Shawn Mendes,adjective,single,12
+Shawn Mendes,verb,announced,9
+Shawn Mendes,verb,released,8
+Shawn Mendes,verb,were,7
+Shawn Mendes,verb,released,6
+Vladimir Putin,adjective,Russian,86
+Vladimir Putin,verb,is,45
+Vladimir Putin,verb,wa,31
+Vladimir Putin,verb,had,29
+Vladimir Putin,verb,said,28
+George R. R. Martin,verb,is,17
+George R. R. Martin,adjective,new,13
+George R. R. Martin,verb,had,12
+George R. R. Martin,adjective,co-executive,11
+George R. R. Martin,verb,were,9
+Elon Musk,verb,is,13
+Elon Musk,verb,had,9
+Elon Musk,adjective,public,9
+Elon Musk,verb,be,9
+Elon Musk,adjective,artificial,7
+Sundar Pichai,verb,is,5
+Sundar Pichai,adjective,new,4
+Sundar Pichai,adjective,many,4
+Sundar Pichai,verb,are,3
+Sundar Pichai,adjective,digital,3
+Cristiano Ronaldo,verb,scored,24
+Cristiano Ronaldo,adjective,first,24
+Cristiano Ronaldo,adjective,international,18
+Cristiano Ronaldo,adjective,national,17
+Cristiano Ronaldo,adjective,European,14
+Lionel Messi,adjective,first,29
+Lionel Messi,verb,scored,26
+Lionel Messi,verb,had,19
+Lionel Messi,verb,wa,19
+Lionel Messi,adjective,top,18
+Serena Williams,adjective,first,74
+Serena Williams,adjective,final,71
+Serena Williams,adjective,single,61
+Serena Williams,verb,is,42
+Serena Williams,adjective,double,42
+Brad Pitt,verb,is,8
+Brad Pitt,verb,was,6
+Brad Pitt,adjective,second,5
+Brad Pitt,verb,starred,5
+Brad Pitt,verb,were,5
+Selena Gomez,verb,had,7
+Selena Gomez,verb,is,6
+Selena Gomez,adjective,second,6
+Selena Gomez,verb,released,5
+Selena Gomez,verb,reached,5
+Google,verb,announced,18
+Google,verb,is,13
+Google,adjective,first,10
+Google,verb,including,9
+Google,verb,were,7
+Microsoft,verb,is,21
+Microsoft,verb,announced,16
+Microsoft,verb,are,10
+Microsoft,verb,had,10
+Microsoft,verb,be,10
+Volkswagen,verb,were,37
+Volkswagen,verb,had,26
+Volkswagen,verb,is,25
+Volkswagen,adjective,new,22
+Volkswagen,verb,announced,19
+Germany,adjective,German,46
+Germany,verb,is,43
+Germany,verb,are,25
+Germany,adjective,right,20
+Germany,verb,were,14
+United States of America,verb,is,77
+United States of America,verb,are,50
+United States of America,adjective,American,39
+United States of America,adjective,federal,29
+United States of America,verb,were,24
+India,verb,is,48
+India,adjective,Indian,42
+India,verb,are,15
+India,verb,were,12
+India,adjective,image_style,11

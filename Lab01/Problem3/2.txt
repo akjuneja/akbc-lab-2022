@@ -1,0 +1,10 @@
+SELECT ?item ?itemLabel
+WHERE
+{
+wd:Q15228 wdt:P674 ?item.
+?item wdt:P21 wd:Q6581097.
+SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO LANGUAGE],en". }
+}
+
+You can try out this example query at:
+https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%0AWHERE%0A%7B%0Awd%3AQ15228%20wdt%3AP674%20%3Fitem.%0A%3Fitem%20wdt%3AP21%20wd%3AQ6581097.%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO%20LANGUAGE%5D%2Cen%22.%20%7D%0A%7D

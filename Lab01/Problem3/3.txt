@@ -1,0 +1,11 @@
+SELECT ?item ?itemLabel (COUNT(?char) AS ?count)
+WHERE
+{
+?item wdt:P31 wd:Q559618.
+?char wdt:P1080 ?item.
+SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO LANGUAGE],en". }
+}
+GROUP BY ?item ?itemLabel
+ORDER BY DESC(?count)
+
+You can try out this example query at: https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%20%28COUNT%28%3Fchar%29%20AS%20%3Fcount%29%0AWHERE%0A%7B%0A%3Fitem%20wdt%3AP31%20wd%3AQ559618.%0A%3Fchar%20wdt%3AP1080%20%3Fitem.%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO%20LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%0AORDER%20BY%20DESC%28%3Fcount%29
